@@ -22,7 +22,7 @@ module.exports = {
     hardhat: {
       chainId: 31337,
       forking: {
-        url: MAINNET_RPC_URL,
+        url: MAINNET_RPC_URL, // THIS IS A WAY TO INTERACT WITH MAINNET LOCALY
       },
     },
     localhost: {

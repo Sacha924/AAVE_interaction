@@ -1,4 +1,4 @@
-# AAVE3 algorithmic interactions
+# AAVE2 algorithmic interactions
 
 the goal of this project is to create a code allowing to interact with the aave protocol
 Doing stuff like :
